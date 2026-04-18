@@ -42,8 +42,9 @@ public class LyraGame : ModuleRules
 				"Niagara",
 				"AsyncMixin",
 				"ControlFlows",
-				"PropertyPath"
-			}
+				"PropertyPath",
+                "ModelViewViewModel"
+            }
 		);
 
 		PrivateDependencyModuleNames.AddRange(

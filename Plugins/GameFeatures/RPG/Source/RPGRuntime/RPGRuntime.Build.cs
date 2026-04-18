@@ -26,6 +26,7 @@ public class RPGRuntime : ModuleRules
 			new string[]
 			{
 				"Core",
+                "ModelViewViewModel"
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);

@@ -352,10 +352,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ModelViewViewModelPreview",
-			"Enabled": true
-		},
-		{
 			"Name": "MetaHumanCharacter",
 			"Enabled": true
 		},
@@ -390,6 +386,10 @@
 		{
 			"Name": "Paper2D",
 			"Enabled": false
+		},
+		{
+			"Name": "ModelViewViewModel",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "451731683"
